@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-plural-ru"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Склонение русских существительных по числам."
+    репозиторий = "github.com/skytech-alt/skyforge-plural-ru"
+    точка_входа = "code/main.skf"
+    теги = ["plural", "russia", "i18n"]
+    лицензия = "MIT"
+    зависимости = []
+}
